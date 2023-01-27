@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FindYourSpotAppMoatez</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="SaveSpot" />
+    <string name="name" />
+    <string name="latitude" />
+    <string name="title" />
+    <string name="longitude" />
+</resources>
